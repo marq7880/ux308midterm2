@@ -1,8 +1,8 @@
 ---
-title: Top 5 Songs in Latin America
+title: Top Songs in Latin America
 lang: en
 date: '2020-03-13T00:00:00-04:00'
-thumbnail: /images/uploads/maxresdefault.jpg
+thumbnail: /images/uploads/29ae450b06a78c1141794de2efb5fc1d.jpg
 terms: >-
   top latin songs, latin songs, gasolina, cnco, daddy yankee, bad bunny, anuel,
   tusa, yhlqmdlg
@@ -18,14 +18,6 @@ terms: >-
 
 
 * Muevelo by Nicky Jam and Daddy Yankee
-
-
-
-* Me Gustas by Shakira and Anuel AA
-
-
-
-* RITMO by Black Eye Peas and J Balvin
 
 
 
